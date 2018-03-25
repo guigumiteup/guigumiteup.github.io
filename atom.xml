@@ -3,11 +3,11 @@
   <title>硅谷蜜特UP</title>
   
   <subtitle>发现硅谷本地活动，关注硅谷蜜特UP</subtitle>
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://guigumiteup.github.io/blog/"/>
+  <link href="http://guigumiteup.github.io/"/>
   <updated>2018-03-24T00:52:51.607Z</updated>
-  <id>http://guigumiteup.github.io/blog/</id>
+  <id>http://guigumiteup.github.io/</id>
   
   <author>
     <name>ggmu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://guigumiteup.github.io/blog/2018/03/23/hello-world/"/>
-    <id>http://guigumiteup.github.io/blog/2018/03/23/hello-world/</id>
+    <link href="http://guigumiteup.github.io/2018/03/23/hello-world/"/>
+    <id>http://guigumiteup.github.io/2018/03/23/hello-world/</id>
     <published>2018-03-24T00:52:51.606Z</published>
     <updated>2018-03-24T00:52:51.607Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>#71 一周活动放送 2018.03.19</title>
-    <link href="http://guigumiteup.github.io/blog/2018/03/19/71-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-03-19/"/>
-    <id>http://guigumiteup.github.io/blog/2018/03/19/71-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-03-19/</id>
+    <link href="http://guigumiteup.github.io/2018/03/19/71-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-03-19/"/>
+    <id>http://guigumiteup.github.io/2018/03/19/71-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-03-19/</id>
     <published>2018-03-20T01:50:23.000Z</published>
     <updated>2018-03-24T18:18:37.864Z</updated>
     
@@ -55,15 +55,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#70 一周活动放送 2018.03.12</title>
-    <link href="http://guigumiteup.github.io/blog/2018/03/12/70-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-03-12/"/>
-    <id>http://guigumiteup.github.io/blog/2018/03/12/70-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-03-12/</id>
+    <link href="http://guigumiteup.github.io/2018/03/12/70-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-03-12/"/>
+    <id>http://guigumiteup.github.io/2018/03/12/70-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-03-12/</id>
     <published>2018-03-13T03:00:52.000Z</published>
     <updated>2018-03-24T18:18:37.864Z</updated>
     
@@ -78,15 +78,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#69 一周活动放送 2018.03.05</title>
-    <link href="http://guigumiteup.github.io/blog/2018/03/05/69-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-03-05/"/>
-    <id>http://guigumiteup.github.io/blog/2018/03/05/69-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-03-05/</id>
+    <link href="http://guigumiteup.github.io/2018/03/05/69-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-03-05/"/>
+    <id>http://guigumiteup.github.io/2018/03/05/69-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-03-05/</id>
     <published>2018-03-06T02:48:38.000Z</published>
     <updated>2018-03-24T18:18:37.864Z</updated>
     
@@ -102,15 +102,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#68 一周活动放送 2018.02.26</title>
-    <link href="http://guigumiteup.github.io/blog/2018/02/26/68-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-26/"/>
-    <id>http://guigumiteup.github.io/blog/2018/02/26/68-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-26/</id>
+    <link href="http://guigumiteup.github.io/2018/02/26/68-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-26/"/>
+    <id>http://guigumiteup.github.io/2018/02/26/68-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-26/</id>
     <published>2018-02-26T12:51:25.000Z</published>
     <updated>2018-03-24T18:18:37.864Z</updated>
     
@@ -125,15 +125,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#67 一周活动放送 2018.02.19</title>
-    <link href="http://guigumiteup.github.io/blog/2018/02/19/67-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-19/"/>
-    <id>http://guigumiteup.github.io/blog/2018/02/19/67-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-19/</id>
+    <link href="http://guigumiteup.github.io/2018/02/19/67-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-19/"/>
+    <id>http://guigumiteup.github.io/2018/02/19/67-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-19/</id>
     <published>2018-02-20T00:57:40.000Z</published>
     <updated>2018-03-24T18:18:37.864Z</updated>
     
@@ -148,15 +148,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#66 一周活动放送 2018.02.12</title>
-    <link href="http://guigumiteup.github.io/blog/2018/02/12/66-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-12/"/>
-    <id>http://guigumiteup.github.io/blog/2018/02/12/66-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-12/</id>
+    <link href="http://guigumiteup.github.io/2018/02/12/66-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-12/"/>
+    <id>http://guigumiteup.github.io/2018/02/12/66-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-12/</id>
     <published>2018-02-13T00:06:49.000Z</published>
     <updated>2018-03-24T18:18:37.864Z</updated>
     
@@ -172,15 +172,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#65 一周活动放送 2018.02.05</title>
-    <link href="http://guigumiteup.github.io/blog/2018/02/04/65-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-05/"/>
-    <id>http://guigumiteup.github.io/blog/2018/02/04/65-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-05/</id>
+    <link href="http://guigumiteup.github.io/2018/02/04/65-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-05/"/>
+    <id>http://guigumiteup.github.io/2018/02/04/65-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-02-05/</id>
     <published>2018-02-05T01:52:37.000Z</published>
     <updated>2018-03-24T18:18:37.864Z</updated>
     
@@ -195,15 +195,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#64 一周活动放送 2018.01.29</title>
-    <link href="http://guigumiteup.github.io/blog/2018/01/29/64-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-29/"/>
-    <id>http://guigumiteup.github.io/blog/2018/01/29/64-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-29/</id>
+    <link href="http://guigumiteup.github.io/2018/01/29/64-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-29/"/>
+    <id>http://guigumiteup.github.io/2018/01/29/64-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-29/</id>
     <published>2018-01-30T03:20:34.000Z</published>
     <updated>2018-03-24T18:18:37.864Z</updated>
     
@@ -218,15 +218,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#63 一周活动放送 2018.01.22</title>
-    <link href="http://guigumiteup.github.io/blog/2018/01/22/63-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-22/"/>
-    <id>http://guigumiteup.github.io/blog/2018/01/22/63-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-22/</id>
+    <link href="http://guigumiteup.github.io/2018/01/22/63-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-22/"/>
+    <id>http://guigumiteup.github.io/2018/01/22/63-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-22/</id>
     <published>2018-01-23T03:27:26.000Z</published>
     <updated>2018-03-24T18:18:37.864Z</updated>
     
@@ -241,15 +241,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#62 一周活动放送 2018.01.15</title>
-    <link href="http://guigumiteup.github.io/blog/2018/01/15/62-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-15/"/>
-    <id>http://guigumiteup.github.io/blog/2018/01/15/62-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-15/</id>
+    <link href="http://guigumiteup.github.io/2018/01/15/62-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-15/"/>
+    <id>http://guigumiteup.github.io/2018/01/15/62-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-15/</id>
     <published>2018-01-16T03:06:59.000Z</published>
     <updated>2018-03-24T18:18:37.864Z</updated>
     
@@ -264,15 +264,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#61 一周活动放送 2018.01.08</title>
-    <link href="http://guigumiteup.github.io/blog/2018/01/08/61-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-08/"/>
-    <id>http://guigumiteup.github.io/blog/2018/01/08/61-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-08/</id>
+    <link href="http://guigumiteup.github.io/2018/01/08/61-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-08/"/>
+    <id>http://guigumiteup.github.io/2018/01/08/61-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-08/</id>
     <published>2018-01-09T03:55:39.000Z</published>
     <updated>2018-03-24T18:18:37.864Z</updated>
     
@@ -287,15 +287,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>2017硅谷中文活动报告</title>
-    <link href="http://guigumiteup.github.io/blog/2018/01/04/2017-e7-a1-85-e8-b0-b7-e4-b8-ad-e6-96-87-e6-b4-bb-e5-8a-a8-e6-8a-a5-e5-91-8a/"/>
-    <id>http://guigumiteup.github.io/blog/2018/01/04/2017-e7-a1-85-e8-b0-b7-e4-b8-ad-e6-96-87-e6-b4-bb-e5-8a-a8-e6-8a-a5-e5-91-8a/</id>
+    <link href="http://guigumiteup.github.io/2018/01/04/2017-e7-a1-85-e8-b0-b7-e4-b8-ad-e6-96-87-e6-b4-bb-e5-8a-a8-e6-8a-a5-e5-91-8a/"/>
+    <id>http://guigumiteup.github.io/2018/01/04/2017-e7-a1-85-e8-b0-b7-e4-b8-ad-e6-96-87-e6-b4-bb-e5-8a-a8-e6-8a-a5-e5-91-8a/</id>
     <published>2018-01-05T06:21:19.000Z</published>
     <updated>2018-03-24T18:18:37.863Z</updated>
     
@@ -310,15 +310,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#59 一周活动放送 2018.01.01</title>
-    <link href="http://guigumiteup.github.io/blog/2018/01/01/59-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-01/"/>
-    <id>http://guigumiteup.github.io/blog/2018/01/01/59-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-01/</id>
+    <link href="http://guigumiteup.github.io/2018/01/01/59-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-01/"/>
+    <id>http://guigumiteup.github.io/2018/01/01/59-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2018-01-01/</id>
     <published>2018-01-02T04:00:40.000Z</published>
     <updated>2018-03-24T18:18:37.863Z</updated>
     
@@ -333,15 +333,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#58 一周活动放送 2017.12.18</title>
-    <link href="http://guigumiteup.github.io/blog/2017/12/18/58-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-12-18/"/>
-    <id>http://guigumiteup.github.io/blog/2017/12/18/58-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-12-18/</id>
+    <link href="http://guigumiteup.github.io/2017/12/18/58-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-12-18/"/>
+    <id>http://guigumiteup.github.io/2017/12/18/58-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-12-18/</id>
     <published>2017-12-19T03:19:31.000Z</published>
     <updated>2018-03-24T18:18:37.863Z</updated>
     
@@ -356,15 +356,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#57 一周活动放送 2017.12.11</title>
-    <link href="http://guigumiteup.github.io/blog/2017/12/10/57-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-12-11/"/>
-    <id>http://guigumiteup.github.io/blog/2017/12/10/57-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-12-11/</id>
+    <link href="http://guigumiteup.github.io/2017/12/10/57-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-12-11/"/>
+    <id>http://guigumiteup.github.io/2017/12/10/57-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-12-11/</id>
     <published>2017-12-11T06:00:40.000Z</published>
     <updated>2018-03-24T18:18:37.863Z</updated>
     
@@ -379,15 +379,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#56 一周活动放送 2017.12.04</title>
-    <link href="http://guigumiteup.github.io/blog/2017/12/04/56-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-12-04/"/>
-    <id>http://guigumiteup.github.io/blog/2017/12/04/56-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-12-04/</id>
+    <link href="http://guigumiteup.github.io/2017/12/04/56-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-12-04/"/>
+    <id>http://guigumiteup.github.io/2017/12/04/56-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-12-04/</id>
     <published>2017-12-05T03:53:10.000Z</published>
     <updated>2018-03-24T18:18:37.863Z</updated>
     
@@ -402,15 +402,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#55 一周活动放送 2017.11.27</title>
-    <link href="http://guigumiteup.github.io/blog/2017/11/27/55-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-11-27/"/>
-    <id>http://guigumiteup.github.io/blog/2017/11/27/55-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-11-27/</id>
+    <link href="http://guigumiteup.github.io/2017/11/27/55-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-11-27/"/>
+    <id>http://guigumiteup.github.io/2017/11/27/55-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-11-27/</id>
     <published>2017-11-28T04:36:15.000Z</published>
     <updated>2018-03-24T18:18:37.863Z</updated>
     
@@ -425,15 +425,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#54 一周活动放送 2017.11.20</title>
-    <link href="http://guigumiteup.github.io/blog/2017/11/20/54-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-11-20/"/>
-    <id>http://guigumiteup.github.io/blog/2017/11/20/54-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-11-20/</id>
+    <link href="http://guigumiteup.github.io/2017/11/20/54-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-11-20/"/>
+    <id>http://guigumiteup.github.io/2017/11/20/54-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-11-20/</id>
     <published>2017-11-21T03:14:33.000Z</published>
     <updated>2018-03-24T18:18:37.863Z</updated>
     
@@ -448,15 +448,15 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
   
   <entry>
     <title>#53 一周活动放送 2017.11.13</title>
-    <link href="http://guigumiteup.github.io/blog/2017/11/13/53-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-11-13/"/>
-    <id>http://guigumiteup.github.io/blog/2017/11/13/53-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-11-13/</id>
+    <link href="http://guigumiteup.github.io/2017/11/13/53-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-11-13/"/>
+    <id>http://guigumiteup.github.io/2017/11/13/53-e4-b8-80-e5-91-a8-e6-b4-bb-e5-8a-a8-e6-94-be-e9-80-81-2017-11-13/</id>
     <published>2017-11-14T04:40:10.000Z</published>
     <updated>2018-03-24T18:18:37.863Z</updated>
     
@@ -471,7 +471,7 @@
     
     </summary>
     
-      <category term="weekly" scheme="http://guigumiteup.github.io/blog/categories/weekly/"/>
+      <category term="weekly" scheme="http://guigumiteup.github.io/categories/weekly/"/>
     
     
   </entry>
