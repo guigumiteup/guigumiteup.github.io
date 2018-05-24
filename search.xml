@@ -3,6 +3,21 @@
   
     
     <entry>
+      <title>test2</title>
+      <link href="/test2/"/>
+      <url>/test2/</url>
+      <content type="html"><![CDATA[]]></content>
+      
+      <categories>
+          
+          <category> weekly </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
       <title>test1</title>
       <link href="/test1/"/>
       <url>/test1/</url>
